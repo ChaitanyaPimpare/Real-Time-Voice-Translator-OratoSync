@@ -35,7 +35,8 @@ The application is easy to use: simply select the languages you want to translat
     ```
 
 
-##### Build installer containing all the files:
-- Windows: ```python setup.py bdist_msi```
-- Linux: ```python setup.py bdist_rpm```
-- Mac: ```python setup.py bdist_mac```
+## 🙌 Credits
+
+Developed by:
+
+- Chaitanya Pimpare 
