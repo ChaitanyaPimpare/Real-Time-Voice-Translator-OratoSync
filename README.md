@@ -39,4 +39,5 @@ The application is easy to use: simply select the languages you want to translat
 
 Developed by:
 
-- Chaitanya Pimpare 
+- Chaitanya Pimpare
+- GitHub:github.com/ChaitanyaPimpare
